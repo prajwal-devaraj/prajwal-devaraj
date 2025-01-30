@@ -1,4 +1,4 @@
-![logo](https://github.com/prajwaldevaraj-2001/Prajwal-Devaraj/blob/main/PRAJWAL%20DEVARAJ%20banner.jpg)
+![logo](https://github.com/prajwaldevaraj01/prajwaldevaraj01/blob/main/PRAJWAL%20DEVARAJ%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Prajwal Devaraj</h1>
 <h3 align="center">I am a computer science graduate pursing a master’s from Kent State University, specializing in AI, machine learning, and full-stack development using Python, Flask, MongoDB, and SQL. I have built real-world applications like Real-Time Inventory Management Systems and IoT-based fire detection systems. A collaborative problem-solver, I excel in designing, developing, and deploying innovative solutions.</h3>
 
