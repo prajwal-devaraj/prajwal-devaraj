@@ -26,7 +26,7 @@
 
 # 🚀 My GitHub Projects are: 
 
-<div style="font-size: 20px;">
+<div style="font-size: 100px;">
 
 - School Management System  
 - Real-Time Inventory System  
