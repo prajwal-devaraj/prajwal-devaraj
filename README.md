@@ -3,6 +3,7 @@
 <h3 align="center">I am a computer science graduate pursuing a master’s from Kent State University, specializing in AI, machine learning, and full-stack development using Python, Flask, MongoDB, and SQL. I have built real-world applications like Real-Time Inventory Management Systems and IoT-based fire detection systems. A collaborative problem-solver, I excel in designing, developing, and deploying innovative solutions.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/prajwaldevaraj-2001/prajwaldevaraj-2001/blob/main/profile.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwaldevaraj-2001&label=Profile%20views&color=0e75b6&style=flat" alt="prajwaldevaraj-2001" /> </p>
 
