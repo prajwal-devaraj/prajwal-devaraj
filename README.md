@@ -1,73 +1,73 @@
 <div align="center">
+  <img src="https://github.com/prajwaldevaraj01/prajwaldevaraj01/blob/main/PRAJWAL%20DEVARAJ%20banner.jpg" alt="Banner" />
 
-  ![logo](https://github.com/prajwaldevaraj01/prajwaldevaraj01/blob/main/PRAJWAL%20DEVARAJ%20banner.jpg)
+  <h1>👋 Hi, I'm Prajwal Devaraj</h1>
+  <h3>🔥 Master’s student at Kent State University | AI, Machine Learning & Full-stack Developer</h3>
+  <p>I'm a passionate computer science graduate with a deep interest in AI, machine learning, and full-stack development. At Kent State University, I'm exploring the endless possibilities these fields offer, building real-world applications like <strong>Real-Time Inventory Management Systems</strong> and <strong>IoT-based fire detection systems</strong>. With hands-on experience in <strong>Python, Flask, MongoDB, SQL</strong>, and more, I thrive on solving complex problems and collaborating to build innovative solutions!</p>
 
-  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-  <h1>Hi 👋, I'm Prajwal Devaraj</h1>
-  <h3>I am a computer science graduate pursuing a master’s from Kent State University, specializing in AI, machine learning, and full-stack development using Python, Flask, MongoDB, and SQL. I have built real-world applications like Real-Time Inventory Management Systems and IoT-based fire detection systems. A collaborative problem-solver, I excel in designing, developing, and deploying innovative solutions.</h3>
+  <hr />
+  
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" />
+  
+  <h3>💻 Find all of my projects on GitHub:</h3>
+  <p><a href="https://github.com/prajwaldevaraj-2001" target="_blank"><strong>GitHub</strong></a></p>
 
-  <img align="right" alt="coding" width="400" src="https://github.com/prajwaldevaraj-2001/prajwaldevaraj-2001/blob/main/profile.jpg">
+  <h3>📧 Reach me at:</h3>
+  <p><strong>prajuu2004@gmail.com</strong></p>
 
-  <p> <img src="https://komarev.com/ghpvc/?username=prajwaldevaraj-2001&label=Profile%20views&color=0e75b6&style=flat" alt="prajwaldevaraj-2001" /> </p>
+  <hr />
 
-  - 👨‍💻 All of my projects are available at [https://github.com/prajwaldevaraj-2001](https://github.com/prajwaldevaraj-2001)
-  - 📫 How to reach me **prajuu2004@gmail.com**
-  - ⚡ Fun fact **I am Funny!**
+  <h3>💬 Let's Connect!</h3>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/prajuu2001/" target="_blank"><strong>LinkedIn</strong></a></li>
+    <li>Twitter: <strong>@YourHandle</strong></li>
+  </ul>
 
-  <h3>Connect with me:</h3>
-  <p>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/prajuu2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajuu2001/" height="30" width="40" /></a>
-  </p>
+  <hr />
 
-  <h3>Languages and Tools:</h3>
-  <p>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  </p>
+  <h3>🛠️ Languages & Tools</h3>
+  <div>
+    <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
+    <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
+    <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+    <a href="https://www.tensorflow.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40" /></a>
+  </div>
 
-  <img align="left" alt="coding" width="350" src="https://github.com/prajwaldevaraj-2001/prajwaldevaraj-2001/blob/main/profile.png">
+  <hr />
 
-  # 🚀 My GitHub Projects are:
+  <h3>🚀 Projects I've Worked On:</h3>
+  <ul>
+    <li><strong>Real-Time Inventory System</strong></li>
+    <li><strong>School Management System</strong></li>
+    <li><strong>QuizApp</strong></li>
+    <li><strong>MOOC User Action Data Analysis</strong></li>
+    <li><strong>DeepWalk for Social Representations</strong></li>
+    <li><strong>Student Management System</strong></li>
+    <li><strong>IoT-Based Fire Detection System</strong></li>
+  </ul>
+  <p><a href="https://github.com/prajwaldevaraj-2001" target="_blank">View more on my GitHub</a></p>
 
-  <p style="font-size: 150px;">
-    - School Management System  
-    - Real-Time Inventory System  
-    - QuizApp  
-    - Library Management System  
-    - MOOC User Action Data Analysis  
-    - ADSD  
-    - DeepWalk Online Learning of Social Representations  
-    - Facebook Graph  
-    - DMT Network Anomaly Detection  
-    - Student Management System
-  </p>
+  <hr />
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaldevaraj-2001&show_icons=true&locale=en&layout=compact" alt="prajwaldevaraj-2001" /></p>
+  <h3>📊 GitHub Stats</h3>
+  <p><a href="https://github.com/prajwaldevaraj-2001" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=prajwaldevaraj-2001&show_icons=true&locale=en" alt="GitHub Stats" />
+  </a></p>
+  
+  <p><a href="https://github.com/prajwaldevaraj-2001" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaldevaraj-2001" alt="GitHub Streak" />
+  </a></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwaldevaraj-2001&show_icons=true&locale=en" alt="prajwaldevaraj-2001" /></p>
+  <hr />
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwaldevaraj-2001&" alt="prajwaldevaraj-2001" /></p>
+  <h3>🌟 Fun Fact</h3>
+  <p>I’m also a <em>self-proclaimed comedian</em> – always bringing the fun to any team!</p>
 
+  <hr />
+
+  <p><strong>📈 Let’s build something amazing together!</strong></p>
 </div>
