@@ -25,7 +25,7 @@
 <img align="left" alt="coding" width="400" src="https://github.com/prajwaldevaraj-2001/prajwaldevaraj-2001/blob/main/profile.png">
 
 # 🚀 My GitHub Projects are: 
-<div align="right">
+<div>
 School Management System
 Real-Time Inventory System
 QuizApp 
