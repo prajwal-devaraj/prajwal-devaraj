@@ -26,7 +26,7 @@
 
 # 🚀 My GitHub Projects are: 
 
-<div style="font-size: 100px;">
+<p style="font-size: 15px;">
 
 - School Management System  
 - Real-Time Inventory System  
@@ -39,7 +39,7 @@
 - DMT Network Anomaly Detection  
 - Student Management System  
 
-</div>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaldevaraj-2001&show_icons=true&locale=en&layout=compact" alt="prajwaldevaraj-2001" /></p>
 
