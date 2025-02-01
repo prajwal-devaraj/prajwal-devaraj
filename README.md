@@ -38,7 +38,7 @@
 - Facebook Graph  
 - DMT Network Anomaly Detection  
 - Student Management System
-- 
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaldevaraj-2001&show_icons=true&locale=en&layout=compact" alt="prajwaldevaraj-2001" /></p>
