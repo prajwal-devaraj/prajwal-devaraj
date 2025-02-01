@@ -25,17 +25,20 @@
 <img align="left" alt="coding" width="400" src="https://github.com/prajwaldevaraj-2001/prajwaldevaraj-2001/blob/main/profile.png">
 
 # 🚀 My GitHub Projects are: 
-<div>
-School Management System
-Real-Time Inventory System
-QuizApp 
-Library ManagementSystem
-MOOC User Action DataAnalysis 
-ADSD 
-DeepWalk Online Learning of Social Representations
-Facebook Graph 
-DMT Nwtwork Anomaly Detection 
-Student Management System 
+
+<div align="right">
+
+- School Management System  
+- Real-Time Inventory System  
+- QuizApp  
+- Library Management System  
+- MOOC User Action Data Analysis  
+- ADSD  
+- DeepWalk Online Learning of Social Representations  
+- Facebook Graph  
+- DMT Network Anomaly Detection  
+- Student Management System  
+
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaldevaraj-2001&show_icons=true&locale=en&layout=compact" alt="prajwaldevaraj-2001" /></p>
