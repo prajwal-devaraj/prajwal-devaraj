@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/prajwaldevaraj-2001">**GITHUB**</a>
 
+- 🔗 Get to know me better! <a href="https://prajwaldevaraj-2001.github.io/portfolio/">**PORTFOLIO**</a>
+
 - 📫 How to reach me **prajuu2004@gmail.com**
 
 - ⚡ Fun fact **I am Funny!**
-
-- 🔗 Get to know me better! <a href="https://prajwaldevaraj-2001.github.io/portfolio/">**PORTFOLIO**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
