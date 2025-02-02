@@ -13,6 +13,8 @@
 - 📫 How to reach me **prajuu2004@gmail.com**
 
 - ⚡ Fun fact **I am Funny!**
+-
+- Get to know me better! 🚀 Explore my journey, skills, and projects here: [https://prajwaldevaraj-2001.github.io/portfolio/] 🔗✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
