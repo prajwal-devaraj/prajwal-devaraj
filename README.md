@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Devaraj</h1>
 <h3 align="center">I am a computer science graduate pursuing a master’s from Kent State University, specializing in AI, machine learning, and full-stack development using Python, Flask, MongoDB, and SQL. I have built real-world applications like Real-Time Inventory Management Systems and IoT-based fire detection systems. A collaborative problem-solver, I excel in designing, developing, and deploying innovative solutions.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/prajwal-devaraj/blob/main/profile.jpg">
+<img align="right" alt="coding" width="400" src="https://github.com/prajwal-devaraj/prajwal-devaraj/blob/main/profile.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-devaraj&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-devaraj" /> </p>
 
