@@ -31,4 +31,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwal-devaraj&show_icons=true&locale=en" alt="prajwal-devaraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj&" alt="prajwal-devaraj" /></p>
+<p style="text-align: center;">
+See my GitHub contribution streak and activity stats:
+</p>
+<p style="text-align: center;">
+  <a href="https://github.com/prajwal-devaraj" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj" alt="GitHub Streak Stats for Prajwal Devaraj" />
+  </a>
+</p>
+
+
+
