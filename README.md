@@ -36,12 +36,14 @@
 </p>
 <p style="text-align: center;">
   <a href="https://github.com/prajwal-devaraj" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj" alt="GitHub Streak Stats for Prajwal Devaraj" />
-  </a>
+<h3 align="center">🔥 GitHub Contribution Streak</h3>
 
-  See my GitHub contribution streak and activity stats:
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=prajwal-devaraj&theme=transparent&hide_border=true" 
+    alt="GitHub Streak for Prajwal Devaraj" />
+</p>
 
-[![GitHub Streak Stats for Prajwal Devaraj](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj)](https://github.com/prajwal-devaraj)
 
 </p>
 
