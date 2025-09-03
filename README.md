@@ -30,7 +30,7 @@
   <a href="https://www.youtube.com/channel/UCfI9pqDoAFd8MU7x1fnRFBA" target="_blank">
     <img src="https://skillicons.dev/icons?i=youtube" width="50" alt="YouTube"/>
   </a>
-  <a href="mailto:iamprajwaldevaraj@gmail.com" target="_blank">
+  <a href="mailto:pdevaraj001@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
   </a>
 </p>
