@@ -38,6 +38,11 @@
   <a href="https://github.com/prajwal-devaraj" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj" alt="GitHub Streak Stats for Prajwal Devaraj" />
   </a>
+
+  See my GitHub contribution streak and activity stats:
+
+[![GitHub Streak Stats for Prajwal Devaraj](https://github-readme-streak-stats.herokuapp.com/?user=prajwal-devaraj)](https://github.com/prajwal-devaraj)
+
 </p>
 
 
