@@ -1,4 +1,4 @@
-![Header Banner](https://github.com/prajwal-devaraj/prajwal-devaraj/blob/main/image%204.png)
+![Header Banner](https://github.com/prajwal-devaraj/prajwal-devaraj/blob/main/image.jpg)
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Prajwal Devaraj</span></h1>
 <h3 align="center">🚀 Computer Science Graduate | AI/ML Enthusiast | Full-Stack Developer</h3>
