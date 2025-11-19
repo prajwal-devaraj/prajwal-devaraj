@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/prajwal-devaraj/prajwal-devaraj/blob/main/image.jpg" width="100%" />
+</p>
+
 # Hi, I'm **Prajwal Devaraj**
 
 ### Graduate Student • Research Assistant • Teaching Assistant  
