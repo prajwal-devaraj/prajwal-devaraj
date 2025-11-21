@@ -5,7 +5,7 @@
 # Hi, I'm **Prajwal Devaraj**
 
 ### Graduate Student • Research Assistant • Teaching Assistant  
-### M.S. in Computer Science — Kent State University  
+### M.Sc. in Computer Science — Kent State University  
 ### AI/ML • Full Stack Development • Data Analytics • IoT & Cloud Systems
 
 ---
