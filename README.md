@@ -14,8 +14,7 @@
   <a href="https://prajwal-devaraj.github.io/portfolio">Portfolio</a> |
   <a href="mailto:pdevaraj001@gmail.com">Email</a> |
   <a href="https://linkedin.com/in/prajwaldevaraj">LinkedIn</a> |
-  <a href="https://github.com/prajwal-devaraj">GitHub</a> |
-  <a href="https://www.youtube.com/channel/UCfI9pqDoAFd8MU7x1fnRFBA">YouTube</a>
+  <a href="https://github.com/prajwal-devaraj">GitHub</a>
 </p>
 
 ---
