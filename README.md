@@ -2,105 +2,60 @@
   <img src="Banner.png" width="100%" />
 </p>
 
-# Hi, I'm **Prajwal Devaraj**
+<h1 align="center">Prajwal Devaraj</h1>
 
-### Graduate Student • Research Assistant • Teaching Assistant  
-### M.Sc. in Computer Science — Kent State University  
-### AI/ML • Full Stack Development • Data Analytics • IoT & Cloud Systems
+<p align="center">
+  Graduate Student | Research Assistant | Teaching Assistant<br/>
+  M.Sc. Computer Science, Kent State University <br/>
+  Artificial Intelligence & Machine Learning | Distributed Systems | Full-Stack Development | Data Analytics
+</p>
 
----
-
-## About Me
-
-I am a Graduate Student at Kent State University, currently working as a **Research Assistant** and **Teaching Assistant**. My academic and technical areas include:
-
-- Artificial Intelligence & Machine Learning  
-- Full Stack Web Application Development  
-- Data Analytics & Visualization  
-- Cloud Computing & IoT Systems  
-- Secure Database & Backend Engineering  
-
-I focus on building **scalable, intelligent, and high-impact solutions**.
-
-**Portfolio:** https://prajwal-devaraj.github.io/portfolio  
-**Email:** `pdevaraj001@gmail.com`
+<p align="center">
+  <a href="https://prajwal-devaraj.github.io/portfolio">Portfolio</a> |
+  <a href="mailto:pdevaraj001@gmail.com">Email</a> |
+  <a href="https://linkedin.com/in/prajwaldevaraj">LinkedIn</a> |
+  <a href="https://github.com/prajwal-devaraj">GitHub</a> |
+  <a href="https://www.youtube.com/channel/UCfI9pqDoAFd8MU7x1fnRFBA">YouTube</a>
+</p>
 
 ---
 
-## Technical Skills
+## About
 
-**Languages & Frameworks:**  
-Python, Java, JavaScript, HTML/CSS, Flask, PHP
+I am a Master’s student in Computer Science at Kent State University with experience building and deploying end-to-end intelligent systems across medical image analysis, cybersecurity (voice phishing detection), privacy-preserving database systems, and AI-driven financial analytics platforms.
 
-**AI/ML & Data:**  
-PyTorch, TensorFlow, Scikit-Learn, OpenCV, Pandas, NumPy
+My work focuses on scalable machine learning pipelines, distributed time-series query strategies, and production-ready full-stack applications. I prioritize interpretable modeling, solid system design, and measurable performance.
 
-**Databases:**  
-MySQL, MongoDB, SQLite
+Location: Kent, Ohio, USA  
+Email: pdevaraj001@gmail.com  
+Portfolio: https://prajwal-devaraj.github.io/portfolio  
 
-**Cloud & DevOps:**  
-AWS, Linux, Git
-
-**Tools & Platforms:**  
-VS Code, Android Studio, Figma, Arduino
-
-
-### **Programming Languages**
-- Python  
-- Java  
-- JavaScript  
-- PHP  
-- HTML5 / CSS3  
-
-### **Frameworks & Libraries**
-- Flask  
-- React (if you want, I can add)  
-- PyTorch  
-- TensorFlow  
-- Scikit-Learn  
-- OpenCV  
-
-### **Data & Analytics**
-- Pandas, NumPy  
-- Data Visualization (Matplotlib, Seaborn)  
-- Data Cleaning & Feature Engineering  
-- Machine Learning Model Development  
-
-### **Databases**
-- MySQL  
-- MongoDB  
-- SQLite  
-
-### **Cloud & DevOps**
-- AWS  
-- Linux / Shell  
-- Git & GitHub  
-- Docker (if you want, I can add)
-
-### **Tools & Platforms**
-- VS Code  
-- Android Studio  
-- Figma  
-- Arduino  
-- Jupyter Notebook  
 ---
 
-## Connect With Me
+## Core Areas
 
-- **LinkedIn:** https://linkedin.com/in/prajwaldevaraj  
-- **YouTube:** https://www.youtube.com/channel/UCfI9pqDoAFd8MU7x1fnRFBA  
-- **Email:** `pdevaraj001@gmail.com`
+- Deep learning and applied machine learning (CNNs, MLPs, Mixture of Experts)
+- Distributed systems and time-series query optimization
+- Privacy-preserving and secure database systems
+- Full-stack development for ML-powered products
+- Data analytics, visualization, and reporting
 
 ---
 
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-devaraj&layout=compact&theme=default&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-devaraj&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-devaraj&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-##  Thought for a Day
+## Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+</p>
