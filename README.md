@@ -1,4 +1,4 @@
-````md
+
 <p align="center">
   <img src="Banner.png" width="100%" alt="Prajwal Devaraj Banner" />
 </p>
@@ -264,7 +264,6 @@ Renudev Technologies — Junior Software Engineer
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal-devaraj&show_icons=true&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal-devaraj&layout=compact&hide_border=true" height="170" />
 </p>
 
