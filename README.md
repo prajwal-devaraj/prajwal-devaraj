@@ -287,7 +287,7 @@ I am open to roles in:
 * AI/ML Engineering
 * Data Engineering
 * Platform Engineering
-* Research Software Engineering
+* Research 
 
 ---
 
