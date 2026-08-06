@@ -36,11 +36,13 @@
 
 ## About Me
 
-I am a **Computer Science graduate from Kent State University** with experience designing, building, and deploying end-to-end intelligent systems across **AI/ML, backend engineering, full-stack development, cybersecurity, medical data analysis, privacy-preserving databases, and enterprise software platforms**.
+## About Me
 
-My work focuses on **scalable machine learning pipelines, distributed systems, time-series data processing, query optimization, secure backend architecture, and production-ready full-stack applications**.
+I’m a curious engineer who enjoys turning crazy ideas into practical products. I build intelligent, scalable, and secure systems across **AI/ML, backend engineering, full-stack development, and data engineering**.
 
-I enjoy building systems that are technically strong, reliable, interpretable, and measurable in real-world performance.
+I’m creative enough to challenge the usual approach, technical enough to build the solution, and responsible enough to stay committed until it works. I bring curiosity, confidence, humor, loyalty, and an entrepreneurial mindset to every project I take on.
+
+**I don’t just write code, I explore ideas, solve meaningful problems, and build things people can trust.**
 
 ---
 
@@ -241,25 +243,6 @@ Privacy-preserving healthcare database system with encryption, access control, a
 
 ---
 
-## Experience Highlights
-
-```txt
-Kent State University — Graduate Research Assistant
-- Built AI/ML pipelines for medical, genetic, and image-based data analysis
-- Worked with large-scale datasets and interpretable machine learning workflows
-- Improved experimentation cycles and model evaluation pipelines
-
-Kent State University — Teaching Assistant
-- Supported Operating Systems and Database Systems courses
-- Assisted students with labs, assignments, grading, and technical concepts
-
-Renudev Technologies — Junior Software Engineer
-- Developed full-stack software features using backend APIs, databases, and frontend components
-- Improved application performance, resolved production issues, and supported business workflows
-```
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -341,4 +324,3 @@ I am open to roles in:
 <p align="center">
   <b>Building intelligent, secure, and scalable software systems.</b>
 </p>
-```
