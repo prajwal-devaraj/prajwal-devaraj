@@ -10,8 +10,7 @@
 </h3>
 
 <p align="center">
-  <b>M.S. Computer Science Graduate — Kent State University</b><br/>
-  Graduate Research Assistant | Teaching Assistant | Builder of Intelligent Software Systems
+  An autonomous research platform combining machine learning, evolutionary optimization and agentic AI to generate, evaluate and continuously improve solutions.
 </p>
 
 <p align="center">
