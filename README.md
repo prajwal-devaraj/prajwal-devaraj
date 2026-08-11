@@ -36,8 +36,6 @@
 
 ## About Me
 
-## About Me
-
 I’m a curious engineer who enjoys turning crazy ideas into practical products. I build intelligent, scalable, and secure systems across **AI/ML, backend engineering, full-stack development, and data engineering**.
 
 I’m creative enough to challenge the usual approach, technical enough to build the solution, and responsible enough to stay committed until it works. I bring curiosity, confidence, humor, loyalty, and an entrepreneurial mindset to every project I take on.
