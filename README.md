@@ -1135,6 +1135,4 @@ Real-World Impact
 <p align="center">
   Research. Build. Learn. Improve. Repeat.
 </p>
-```
 
-One important change I made: instead of literally writing things like **“I am naughty, crazy, smart, intelligent and loyal,”** which can look immature on GitHub, I translated those traits into recruiter-friendly signals such as **playful, unconventional, confident, entrepreneurial, humorous, dependable, curious, ownership-driven, and human**. That gives the same personality without weakening your professional image.
